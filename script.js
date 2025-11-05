@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const grid = document.querySelector('#game-board');
-    const startButton = document.getElementById('start-game1');
+    const startButton = document.getElementById('start-game');
     let cardsChosen = [];
     let cardsChosenId = [];
     let cardsWon = [];
